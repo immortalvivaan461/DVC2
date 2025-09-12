@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+* {
+    font-family: Inter, Haettenschweiler, 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+}
