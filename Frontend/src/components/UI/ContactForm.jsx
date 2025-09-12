@@ -24,12 +24,10 @@ const ContactForm = () => {
         try {
             // const API_URL = import.meta.env.VITE_API_URL;
 
-            const res = await fetch(`${import.meta.env.VITE_API_URL}/contactus`, {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify(formData)
+           const res = await fetch(`${import.meta.env.VITE_API_URL}/contactus`, {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify(formData),
             });
 
             const data = await res.json();
