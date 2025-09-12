@@ -10,11 +10,9 @@ const app = express();
 
 // CORS config for frontend
 const corsOptions = {
-    origin: [
-        "https://your-frontend.onrender.com", // Replace with your frontend Render URL
-        "http://localhost:5173"
-    ],
-    methods: ["GET", "POST"]
+  origin: "https://dvc2-1.onrender.com", // frontend URL
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  allowedHeaders: ["Content-Type"],
 };
 
 app.use(cors(corsOptions));
