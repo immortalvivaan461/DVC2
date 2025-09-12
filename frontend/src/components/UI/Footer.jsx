@@ -2,7 +2,6 @@ import './Footer.css'
 import logo from "/src/assets/logo.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook, faTwitter, faInstagram, faLinkedin } from "@fortawesome/free-brands-svg-icons";
-// import { Facebook, Linkedin, Twitter, Instagram } from 'lucide-react';
 import { NavLink } from 'react-router-dom';
 
 
