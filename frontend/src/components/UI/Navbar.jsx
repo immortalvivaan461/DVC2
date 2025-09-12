@@ -1,7 +1,7 @@
 import './Navbar.css';
 
 import TextType from './TextType';
-import logo from "../../assets/logo.png";
+import logo from "/src/assets/logo.png";
 
 import React, { useState, useEffect } from "react";
 import { NavLink } from 'react-router-dom';
