@@ -2,7 +2,7 @@ import './Home.css'
 import HeroText from '../../UI/HeroText';
 import Sidebar from '../../UI/Sidebar';
 
-import VegatableList from '../../mini-components/FruitList'
+import VegatableList from '../../mini-components/VegetableList'
 import FruitList from '../../mini-components/FruitList';
 import SpiceList from '../../mini-components/SpiceList'
 import GrainList from '../../mini-components/GrainList'
