@@ -25,14 +25,14 @@ const Navbar = () => {
             <div className="main-head-container">
                 <div className='nav-starter'>
                     {/* <NavLink className='ms-4' href="">INQUIRY</NavLink> */}
-                    <NavLink
+                    <a
                         className="ms-4"
-                        href="https://api.whatsapp.com/send?phone=919876543210&text=Hello"
+                        href="https://wa.me/919953393099?text=Hello%20DVC%2C%20I%20want%20to%20buy"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         INQUIRY
-                    </NavLink>
+                    </a>
 
                     {!isSmallScreen && (
                         <TextType
