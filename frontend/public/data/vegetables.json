@@ -1,247 +1,37 @@
 [
-    {
-        "id": 1,
-        "name": "POTATOES",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s1.png"
-    },
-    {
-        "id": 2,
-        "name": "ONION",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s2.png"
-    },
-    {
-        "id": 3,
-        "name": "TOMATOES",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s3.png"
-    },
-    {
-        "id": 4,
-        "name": "CHILLI",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s4.png"
-    },
-    {
-        "id": 5,
-        "name": "BEETROOT",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s5.png"
-    },
-    {
-        "id": 6,
-        "name": "YAM",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s6.png"
-    },
-    {
-        "id": 7,
-        "name": "GARLIC",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s7.png"
-    },
-    {
-        "id": 8,
-        "name": "FRENCH BEANS",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s8.png"
-    },
-    {
-        "id": 9,
-        "name": "LADY FINGER",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s9.png"
-    },
-    {
-        "id": 10,
-        "name": "GREEN PEAS",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s10.png"
-    },
-    {
-        "id": 11,
-        "name": "JACK FRUIT",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s11.png"
-    },
-    {
-        "id": 12,
-        "name": "CAULI FLOWER",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s12.png"
-    },
-    {
-        "id": 13,
-        "name": "CAULI FLOWER",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s13.png"
-    },
-    {
-        "id": 14,
-        "name": "DRUMSTICK",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s14.png"
-    },
-    {
-        "id": 15,
-        "name": "CUCUMBER",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s15.png"
-    },
-    {
-        "id": 16,
-        "name": "PUMPKIN",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s16.png"
-    },
-    {
-        "id": 17,
-        "name": "SWEET POTATO",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s17.png"
-    },
-    {
-        "id": 18,
-        "name": "SPINACH",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s18.png"
-    },
-    {
-        "id": 19,
-        "name": "TURNIP",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s19.png"
-    },
-    {
-        "id": 20,
-        "name": "MUSHROOM",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s20.png"
-    },
-    {
-        "id": 21,
-        "name": "CLUSTER BEANS",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s21.png"
-    },
-    {
-        "id": 22,
-        "name": "AMARANTH LEAVES",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s22.png"
-    },
-    {
-        "id": 23,
-        "name": "BRINJAL",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s23.png"
-    },
-    {
-        "id": 24,
-        "name": "RADISH",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s24.png"
-    },
-    {
-        "id": 25,
-        "name": "ASH GOURD",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s25.png"
-    },
-    {
-        "id": 26,
-        "name": "ASH GOURD",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s26.png"
-    },
-    {
-        "id": 27,
-        "name": "SNAKE GOURD",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s27.png"
-    },
-    {
-        "id": 28,
-        "name": "BOTTLE GOURD",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s28.png"
-    },
-    {
-        "id": 29,
-        "name": "SPONGE GOURD",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s29.png"
-    },
-    {
-        "id": 30,
-        "name": "CARROT",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s30.png"
-    },
-    {
-        "id": 31,
-        "name": "RAW PAPAYA",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s31.png"
-    },
-    {
-        "id": 32,
-        "name": "TENDLI",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s32.png"
-    },
-    {
-        "id": 33,
-        "name": "GREEN CAPSICUM",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s33.png"
-    },
-    {
-        "id": 34,
-        "name": "APPLE GOURD",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s34.png"
-    },
-    {
-        "id": 35,
-        "name": "ELEPHANT FOOT YAM",
-        "category": "Vegetables",
-        "price": 25,
-        "image": "passets/veggies/s35.png"
-    }
+  { "id": 1, "name": "POTATOES", "category": "Vegetables", "price": 15, "image": "passets/veggies/s1.png" },
+  { "id": 2, "name": "ONION", "category": "Vegetables", "price": 36, "image": "passets/veggies/s2.png" },
+  { "id": 3, "name": "TOMATOES", "category": "Vegetables", "price": 24, "image": "passets/veggies/s3.png" },
+  { "id": 4, "name": "CHILLI", "category": "Vegetables", "price": 45, "image": "passets/veggies/s4.png" },
+  { "id": 5, "name": "BEETROOT", "category": "Vegetables", "price": 32, "image": "passets/veggies/s5.png" },
+  { "id": 6, "name": "YAM", "category": "Vegetables", "price": 38, "image": "passets/veggies/s6.png" },
+  { "id": 7, "name": "GARLIC", "category": "Vegetables", "price": 95, "image": "passets/veggies/s7.png" },
+  { "id": 8, "name": "FRENCH BEANS", "category": "Vegetables", "price": 60, "image": "passets/veggies/s8.png" },
+  { "id": 9, "name": "LADY FINGER", "category": "Vegetables", "price": 37, "image": "passets/veggies/s9.png" },
+  { "id": 10, "name": "GREEN PEAS", "category": "Vegetables", "price": 52, "image": "passets/veggies/s10.png" },
+  { "id": 11, "name": "JACK FRUIT", "category": "Vegetables", "price": 40, "image": "passets/veggies/s11.png" },
+  { "id": 12, "name": "CAULI FLOWER", "category": "Vegetables", "price": 28, "image": "passets/veggies/s12.png" },
+  { "id": 13, "name": "CAULI FLOWER", "category": "Vegetables", "price": 28, "image": "passets/veggies/s13.png" },
+  { "id": 14, "name": "DRUMSTICK", "category": "Vegetables", "price": 60, "image": "passets/veggies/s14.png" },
+  { "id": 15, "name": "CUCUMBER", "category": "Vegetables", "price": 29, "image": "passets/veggies/s15.png" },
+  { "id": 16, "name": "PUMPKIN", "category": "Vegetables", "price": 20, "image": "passets/veggies/s16.png" },
+  { "id": 17, "name": "SWEET POTATO", "category": "Vegetables", "price": 28, "image": "passets/veggies/s17.png" },
+  { "id": 18, "name": "SPINACH", "category": "Vegetables", "price": 25, "image": "passets/veggies/s18.png" },
+  { "id": 19, "name": "TURNIP", "category": "Vegetables", "price": 30, "image": "passets/veggies/s19.png" },
+  { "id": 20, "name": "MUSHROOM", "category": "Vegetables", "price": 120, "image": "passets/veggies/s20.png" },
+  { "id": 21, "name": "CLUSTER BEANS", "category": "Vegetables", "price": 50, "image": "passets/veggies/s21.png" },
+  { "id": 22, "name": "AMARANTH LEAVES", "category": "Vegetables", "price": 22, "image": "passets/veggies/s22.png" },
+  { "id": 23, "name": "BRINJAL", "category": "Vegetables", "price": 35, "image": "passets/veggies/s23.png" },
+  { "id": 24, "name": "RADISH", "category": "Vegetables", "price": 26, "image": "passets/veggies/s24.png" },
+  { "id": 25, "name": "ASH GOURD", "category": "Vegetables", "price": 20, "image": "passets/veggies/s25.png" },
+  { "id": 26, "name": "ASH GOURD", "category": "Vegetables", "price": 20, "image": "passets/veggies/s26.png" },
+  { "id": 27, "name": "SNAKE GOURD", "category": "Vegetables", "price": 33, "image": "passets/veggies/s27.png" },
+  { "id": 28, "name": "BOTTLE GOURD", "category": "Vegetables", "price": 25, "image": "passets/veggies/s28.png" },
+  { "id": 29, "name": "SPONGE GOURD", "category": "Vegetables", "price": 30, "image": "passets/veggies/s29.png" },
+  { "id": 30, "name": "CARROT", "category": "Vegetables", "price": 44, "image": "passets/veggies/s30.png" },
+  { "id": 31, "name": "RAW PAPAYA", "category": "Vegetables", "price": 25, "image": "passets/veggies/s31.png" },
+  { "id": 32, "name": "TENDLI", "category": "Vegetables", "price": 55, "image": "passets/veggies/s32.png" },
+  { "id": 33, "name": "GREEN CAPSICUM", "category": "Vegetables", "price": 42, "image": "passets/veggies/s33.png" },
+  { "id": 34, "name": "APPLE GOURD", "category": "Vegetables", "price": 26, "image": "passets/veggies/s34.png" },
+  { "id": 35, "name": "ELEPHANT FOOT YAM", "category": "Vegetables", "price": 40, "image": "passets/veggies/s35.png" }
 ]
