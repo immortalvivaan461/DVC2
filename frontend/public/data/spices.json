@@ -1,234 +1,233 @@
 [
-    {
-        "id": 1,
-        "name": "TURMERIC",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s1.png"
-    },
-    {
-        "id": 2,
-        "name": "CUMIN",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s2.png"
-    },
-    {
-        "id": 3,
-        "name": "GREEN CARDAMOM",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s3.png"
-    },
-    {
-        "id": 4,
-        "name": "CORIANDER",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s4.png"
-    },
-    {
-        "id": 5,
-        "name": "GARAM MASALA",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s5.png"
-    },
-    {
-        "id": 6,
-        "name": "BLACK CARDAMOM",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s6.png"
-    },
-    {
-        "id": 7,
-        "name": "ASAFOETIDA",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s7.png"
-    },
-    {
-        "id": 8,
-        "name": "FENUGREEK SEED",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s8.png"
-    },
-    {
-        "id": 9,
-        "name": "DRY MANGO POWDER",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s9.png"
-    },
-    {
-        "id": 10,
-        "name": "INDIAN BAY LEAF",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s10.png"
-    },
-    {
-        "id": 11,
-        "name": "CINNAMON/ CASSIA BARK",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s11.png"
-    },
-    {
-        "id": 12,
-        "name": "FENNEL",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s12.png"
-    },
-    {
-        "id": 13,
-        "name": "BLACK PEPPER",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s13.png"
-    },
-    {
-        "id": 14,
-        "name": "RED CHILI POWDER",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s14.png"
-    },
-    {
-        "id": 15,
-        "name": "CURRY LEAVES",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s15.png"
-    },
-    {
-        "id": 16,
-        "name": "DRY RED CHILI",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s16.png"
-    },
-    {
-        "id": 17,
-        "name": "BESIL SEED",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s17.png"
-    },
-    {
-        "id": 18,
-        "name": "DRY BESIL LEAF",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s18.png"
-    },
-    {
-        "id": 19,
-        "name": "BIG MUSTARD SEED",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s19.png"
-    },
-    {
-        "id": 20,
-        "name": "BLACK SALT",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s20.png"
-    },
-    {
-        "id": 21,
-        "name": "CARAWAY SEED",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s21.png"
-    },
-    {
-        "id": 22,
-        "name": "DRY GINGER",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s22.png"
-    },
-    {
-        "id": 23,
-        "name": "DRY FENUGREEK LEAVES",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s23.png"
-    },
-    {
-        "id": 24,
-        "name": "GARLIC",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s24.png"
-    },
-    {
-        "id": 25,
-        "name": "MINT",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s25.png"
-    },
-    {
-        "id": 26,
-        "name": "ONION SEED NEGELLA",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s26.png"
-    },
-    {
-        "id": 27,
-        "name": "RAISINS",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s27.png"
-    },
-    {
-        "id": 28,
-        "name": "ROCK SALT",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s28.png"
-    },
-    {
-        "id": 29,
-        "name": "SESAME SEED",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s29.png"
-    },
-    {
-        "id": 30,
-        "name": "SAFFORN",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s30.png"
-    },
-    {
-        "id": 31,
-        "name": "SCREWPINE PANDANUS",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s31.png"
-    },
-    {
-        "id": 32,
-        "name": "SAULTANAS",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s32.png"
-    }
-    ,
-    {
-        "id": 33,
-        "name": "SICHUAN PEPPER",
-        "category": "spices",
-        "price": 25,
-        "image": "passets/spices/s33.png"
-    }
+  {
+    "id": 1,
+    "name": "TURMERIC",
+    "category": "spices",
+    "price": 103,
+    "image": "passets/spices/s1.png"
+  },
+  {
+    "id": 2,
+    "name": "CUMIN",
+    "category": "spices",
+    "price": 120,
+    "image": "passets/spices/s2.png"
+  },
+  {
+    "id": 3,
+    "name": "GREEN CARDAMOM",
+    "category": "spices",
+    "price": 900,
+    "image": "passets/spices/s3.png"
+  },
+  {
+    "id": 4,
+    "name": "CORIANDER",
+    "category": "spices",
+    "price": 80,
+    "image": "passets/spices/s4.png"
+  },
+  {
+    "id": 5,
+    "name": "GARAM MASALA",
+    "category": "spices",
+    "price": 140,
+    "image": "passets/spices/s5.png"
+  },
+  {
+    "id": 6,
+    "name": "BLACK CARDAMOM",
+    "category": "spices",
+    "price": 250,
+    "image": "passets/spices/s6.png"
+  },
+  {
+    "id": 7,
+    "name": "ASAFOETIDA",
+    "category": "spices",
+    "price": 250,
+    "image": "passets/spices/s7.png"
+  },
+  {
+    "id": 8,
+    "name": "FENUGREEK SEED",
+    "category": "spices",
+    "price": 110,
+    "image": "passets/spices/s8.png"
+  },
+  {
+    "id": 9,
+    "name": "DRY MANGO POWDER",
+    "category": "spices",
+    "price": 130,
+    "image": "passets/spices/s9.png"
+  },
+  {
+    "id": 10,
+    "name": "INDIAN BAY LEAF",
+    "category": "spices",
+    "price": 90,
+    "image": "passets/spices/s10.png"
+  },
+  {
+    "id": 11,
+    "name": "CINNAMON/ CASSIA BARK",
+    "category": "spices",
+    "price": 350,
+    "image": "passets/spices/s11.png"
+  },
+  {
+    "id": 12,
+    "name": "FENNEL",
+    "category": "spices",
+    "price": 160,
+    "image": "passets/spices/s12.png"
+  },
+  {
+    "id": 13,
+    "name": "BLACK PEPPER",
+    "category": "spices",
+    "price": 240,
+    "image": "passets/spices/s13.png"
+  },
+  {
+    "id": 14,
+    "name": "RED CHILI POWDER",
+    "category": "spices",
+    "price": 120,
+    "image": "passets/spices/s14.png"
+  },
+  {
+    "id": 15,
+    "name": "CURRY LEAVES",
+    "category": "spices",
+    "price": 60,
+    "image": "passets/spices/s15.png"
+  },
+  {
+    "id": 16,
+    "name": "DRY RED CHILI",
+    "category": "spices",
+    "price": 130,
+    "image": "passets/spices/s16.png"
+  },
+  {
+    "id": 17,
+    "name": "BESIL SEED",
+    "category": "spices",
+    "price": 70,
+    "image": "passets/spices/s17.png"
+  },
+  {
+    "id": 18,
+    "name": "DRY BESIL LEAF",
+    "category": "spices",
+    "price": 80,
+    "image": "passets/spices/s18.png"
+  },
+  {
+    "id": 19,
+    "name": "BIG MUSTARD SEED",
+    "category": "spices",
+    "price": 90,
+    "image": "passets/spices/s19.png"
+  },
+  {
+    "id": 20,
+    "name": "BLACK SALT",
+    "category": "spices",
+    "price": 20,
+    "image": "passets/spices/s20.png"
+  },
+  {
+    "id": 21,
+    "name": "CARAWAY SEED",
+    "category": "spices",
+    "price": 130,
+    "image": "passets/spices/s21.png"
+  },
+  {
+    "id": 22,
+    "name": "DRY GINGER",
+    "category": "spices",
+    "price": 90,
+    "image": "passets/spices/s22.png"
+  },
+  {
+    "id": 23,
+    "name": "DRY FENUGREEK LEAVES",
+    "category": "spices",
+    "price": 70,
+    "image": "passets/spices/s23.png"
+  },
+  {
+    "id": 24,
+    "name": "GARLIC",
+    "category": "spices",
+    "price": 95,
+    "image": "passets/spices/s24.png"
+  },
+  {
+    "id": 25,
+    "name": "MINT",
+    "category": "spices",
+    "price": 40,
+    "image": "passets/spices/s25.png"
+  },
+  {
+    "id": 26,
+    "name": "ONION SEED NEGELLA",
+    "category": "spices",
+    "price": 150,
+    "image": "passets/spices/s26.png"
+  },
+  {
+    "id": 27,
+    "name": "RAISINS",
+    "category": "spices",
+    "price": 300,
+    "image": "passets/spices/s27.png"
+  },
+  {
+    "id": 28,
+    "name": "ROCK SALT",
+    "category": "spices",
+    "price": 50,
+    "image": "passets/spices/s28.png"
+  },
+  {
+    "id": 29,
+    "name": "SESAME SEED",
+    "category": "spices",
+    "price": 110,
+    "image": "passets/spices/s29.png"
+  },
+  {
+    "id": 30,
+    "name": "SAFFRON",
+    "category": "spices",
+    "price": 1500,
+    "image": "passets/spices/s30.png"
+  },
+  {
+    "id": 31,
+    "name": "SCREWPINE PANDANUS",
+    "category": "spices",
+    "price": 80,
+    "image": "passets/spices/s31.png"
+  },
+  {
+    "id": 32,
+    "name": "SAULTANAS",
+    "category": "spices",
+    "price": 250,
+    "image": "passets/spices/s32.png"
+  },
+  {
+    "id": 33,
+    "name": "SICHUAN PEPPER",
+    "category": "spices",
+    "price": 300,
+    "image": "passets/spices/s33.png"
+  }
 ]
