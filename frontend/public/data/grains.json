@@ -1,212 +1,212 @@
 [
-    {
-        "id": 1,
-        "name": "AMARANTH",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s1.png"
-    },
-    {
-        "id": 2,
-        "name": "BARLEY",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s2.png"
-    },
-    {
-        "id": 3,
-        "name": "BUCKWHEAT",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s3.png"
-    },
-    {
-        "id": 4,
-        "name": "BULGUR",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s4.png"
-    },
-    {
-        "id": 5,
-        "name": "CORN",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s5.png"
-    },
-    {
-        "id": 6,
-        "name": "EINKORN",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s6.png"
-    },
-    {
-        "id": 7,
-        "name": "FARRO/ EMMER",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s7.png"
-    },
-    {
-        "id": 8,
-        "name": "FONIO",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s8.png"
-    },
-    {
-        "id": 9,
-        "name": "MAKUT",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s9.png"
-    },
-    {
-        "id": 10,
-        "name": "FREEKEH",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s10.png"
-    },
-    {
-        "id": 11,
-        "name": "KANIWA",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s11.png"
-    },
-    {
-        "id": 12,
-        "name": "MILLET",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s12.png"
-    },
-    {
-        "id": 13,
-        "name": "OTS",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s13.png"
-    },
-    {
-        "id": 14,
-        "name": "QUINDA",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s14.png"
-    },
-    {
-        "id": 15,
-        "name": "RICE",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s15.png"
-    },
-    {
-        "id": 16,
-        "name": "RYE",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s16.png"
-    },
-    {
-        "id": 17,
-        "name": "SORGHUM/ MILO",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s17.png"
-    },
-    {
-        "id": 18,
-        "name": "SPELT",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s18.png"
-    },
-    {
-        "id": 19,
-        "name": "TEFF",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s19.png"
-    },
-    {
-        "id": 20,
-        "name": "TRITICALE",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s20.png"
-    },
-    {
-        "id": 21,
-        "name": "WHEAT",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s21.png"
-    },
-    {
-        "id": 22,
-        "name": "WILD RICE",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s22.png"
-    },
-    {
-        "id": 23,
-        "name": "MAIZE",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s23.png"
-    },
-    {
-        "id": 24,
-        "name": "TEA",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s24.png"
-    },
-    {
-        "id": 25,
-        "name": "COFFEE",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s25.png"
-    },
-    {
-        "id": 26,
-        "name": "BUCKWHEAT GRAINS",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s26.png"
-    },
-    {
-        "id": 27,
-        "name": "PEARL MILLET",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s27.png"
-    },
-    {
-        "id": 28,
-        "name": "FINGER MILLET",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s28.png"
-    },
-    {
-        "id": 29,
-        "name": "BARNYARD MILLED",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s29.png"
-    },
-    {
-        "id": 30,
-        "name": "KADO MILLET",
-        "category": "grains",
-        "price": 25,
-        "image": "passets/grains/s30.png"
-    }
+  {
+    "id": 1,
+    "name": "AMARANTH",
+    "category": "grains",
+    "price": 120,
+    "image": "passets/grains/s1.png"
+  },
+  {
+    "id": 2,
+    "name": "BARLEY",
+    "category": "grains",
+    "price": 35,
+    "image": "passets/grains/s2.png"
+  },
+  {
+    "id": 3,
+    "name": "BUCKWHEAT",
+    "category": "grains",
+    "price": 90,
+    "image": "passets/grains/s3.png"
+  },
+  {
+    "id": 4,
+    "name": "BULGUR",
+    "category": "grains",
+    "price": 80,
+    "image": "passets/grains/s4.png"
+  },
+  {
+    "id": 5,
+    "name": "CORN",
+    "category": "grains",
+    "price": 28,
+    "image": "passets/grains/s5.png"
+  },
+  {
+    "id": 6,
+    "name": "EINKORN",
+    "category": "grains",
+    "price": 140,
+    "image": "passets/grains/s6.png"
+  },
+  {
+    "id": 7,
+    "name": "FARRO/ EMMER",
+    "category": "grains",
+    "price": 110,
+    "image": "passets/grains/s7.png"
+  },
+  {
+    "id": 8,
+    "name": "FONIO",
+    "category": "grains",
+    "price": 180,
+    "image": "passets/grains/s8.png"
+  },
+  {
+    "id": 9,
+    "name": "MAKUT",
+    "category": "grains",
+    "price": 200,
+    "image": "passets/grains/s9.png"
+  },
+  {
+    "id": 10,
+    "name": "FREEKEH",
+    "category": "grains",
+    "price": 150,
+    "image": "passets/grains/s10.png"
+  },
+  {
+    "id": 11,
+    "name": "KANIWA",
+    "category": "grains",
+    "price": 160,
+    "image": "passets/grains/s11.png"
+  },
+  {
+    "id": 12,
+    "name": "MILLET",
+    "category": "grains",
+    "price": 40,
+    "image": "passets/grains/s12.png"
+  },
+  {
+    "id": 13,
+    "name": "OTS",
+    "category": "grains",
+    "price": 60,
+    "image": "passets/grains/s13.png"
+  },
+  {
+    "id": 14,
+    "name": "QUINDA",
+    "category": "grains",
+    "price": 130,
+    "image": "passets/grains/s14.png"
+  },
+  {
+    "id": 15,
+    "name": "RICE",
+    "category": "grains",
+    "price": 36,
+    "image": "passets/grains/s15.png"
+  },
+  {
+    "id": 16,
+    "name": "RYE",
+    "category": "grains",
+    "price": 50,
+    "image": "passets/grains/s16.png"
+  },
+  {
+    "id": 17,
+    "name": "SORGHUM/ MILO",
+    "category": "grains",
+    "price": 45,
+    "image": "passets/grains/s17.png"
+  },
+  {
+    "id": 18,
+    "name": "SPELT",
+    "category": "grains",
+    "price": 120,
+    "image": "passets/grains/s18.png"
+  },
+  {
+    "id": 19,
+    "name": "TEFF",
+    "category": "grains",
+    "price": 170,
+    "image": "passets/grains/s19.png"
+  },
+  {
+    "id": 20,
+    "name": "TRITICALE",
+    "category": "grains",
+    "price": 70,
+    "image": "passets/grains/s20.png"
+  },
+  {
+    "id": 21,
+    "name": "WHEAT",
+    "category": "grains",
+    "price": 29,
+    "image": "passets/grains/s21.png"
+  },
+  {
+    "id": 22,
+    "name": "WILD RICE",
+    "category": "grains",
+    "price": 220,
+    "image": "passets/grains/s22.png"
+  },
+  {
+    "id": 23,
+    "name": "MAIZE",
+    "category": "grains",
+    "price": 28,
+    "image": "passets/grains/s23.png"
+  },
+  {
+    "id": 24,
+    "name": "TEA",
+    "category": "grains",
+    "price": 200,
+    "image": "passets/grains/s24.png"
+  },
+  {
+    "id": 25,
+    "name": "COFFEE",
+    "category": "grains",
+    "price": 350,
+    "image": "passets/grains/s25.png"
+  },
+  {
+    "id": 26,
+    "name": "BUCKWHEAT GRAINS",
+    "category": "grains",
+      "price": 90,
+    "image": "passets/grains/s26.png"
+  },
+  {
+    "id": 27,
+    "name": "PEARL MILLET",
+    "category": "grains",
+    "price": 45,
+    "image": "passets/grains/s27.png"
+  },
+  {
+    "id": 28,
+    "name": "FINGER MILLET",
+    "category": "grains",
+    "price": 50,
+    "image": "passets/grains/s28.png"
+  },
+  {
+    "id": 29,
+    "name": "BARNYARD MILLED",
+    "category": "grains",
+    "price": 55,
+    "image": "passets/grains/s29.png"
+  },
+  {
+    "id": 30,
+    "name": "KADO MILLET",
+    "category": "grains",
+    "price": 60,
+    "image": "passets/grains/s30.png"
+  }
 ]
