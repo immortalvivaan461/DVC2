@@ -1,226 +1,226 @@
 [
-    {
-        "id": 1,
-        "name": "MANGOES",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s1.png"
-    },
-    {
-        "id": 2,
-        "name": "POMEGRANATE",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s2.png"
-    },
-    {
-        "id": 3,
-        "name": "ORANGE",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s3.png"
-    },
-    {
-        "id": 4,
-        "name": "MANDARIN",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s4.png"
-    },
-    {
-        "id": 5,
-        "name": "APPLE",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s5.png"
-    },
-    {
-        "id": 6,
-        "name": "WATER MELON",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s6.png"
-    },
-    {
-        "id": 7,
-        "name": "MUSK MELON",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s7.png"
-    },
-    {
-        "id": 8,
-        "name": "CHERRY",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s8.png"
-    },
-    {
-        "id": 9,
-        "name": "PLUM",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s9.png"
-    },
-    {
-        "id": 10,
-        "name": "LITCHI",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s10.png"
-    },
-    {
-        "id": 11,
-        "name": "PEAR",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s11.png"
-    },
-    {
-        "id": 12,
-        "name": "GRAPES",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s12.png"
-    },
-    {
-        "id": 13,
-        "name": "PINEAPPLE",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s13.png"
-    },
-    {
-        "id": 14,
-        "name": "PAPAYA",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s14.png"
-    },
-    {
-        "id": 15,
-        "name": "PEACH",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s15.png"
-    },
-    {
-        "id": 16,
-        "name": "SWEET LEMON",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s16.png"
-    },
-    {
-        "id": 17,
-        "name": "GOOSE BERRY",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s17.png"
-    },
-    {
-        "id": 18,
-        "name": "LEMON",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s18.png"
-    },
-    {
-        "id": 19,
-        "name": "GUAVA",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s19.png"
-    },
-    {
-        "id": 20,
-        "name": "JAMUN",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s20.png"
-    },
-    {
-        "id": 21,
-        "name": "BANANA",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s21.png"
-    },
-    {
-        "id": 22,
-        "name": "DATE",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s22.png"
-    },
-    {
-        "id": 23,
-        "name": "BLACK BERRY",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s23.png"
-    },
-    {
-        "id": 24,
-        "name": "COCONUT",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s24.png"
-    },
-    {
-        "id": 25,
-        "name": "STAR FRUIT",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s25.png"
-    },
-    {
-        "id": 26,
-        "name": "AVOCADO",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s26.png"
-    },
-    {
-        "id": 27,
-        "name": "APRICOT",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s27.png"
-    },
-    {
-        "id": 28,
-        "name": "CUSTARD APPLE",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s28.png"
-    },
-    {
-        "id": 29,
-        "name": "FIGS",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s29.png"
-    },
-    {
-        "id": 30,
-        "name": "INDIAN JUJUBES",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s30.png"
-    },
-    {
-        "id": 31,
-        "name": "TAMARIND",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s31.png"
-    },
-    {
-        "id": 32,
-        "name": "SAPOTA",
-        "category": "FRUITS",
-        "price": 25,
-        "image": "passets/fruits/s32.png"
-    }
+  {
+    "id": 1,
+    "name": "MANGOES",
+    "category": "FRUITS",
+    "price": 80,
+    "image": "passets/fruits/s1.png"
+  },
+  {
+    "id": 2,
+    "name": "POMEGRANATE",
+    "category": "FRUITS",
+    "price": 83,
+    "image": "passets/fruits/s2.png"
+  },
+  {
+    "id": 3,
+    "name": "ORANGE",
+    "category": "FRUITS",
+    "price": 98,
+    "image": "passets/fruits/s3.png"
+  },
+  {
+    "id": 4,
+    "name": "MANDARIN",
+    "category": "FRUITS",
+    "price": 98,
+    "image": "passets/fruits/s4.png"
+  },
+  {
+    "id": 5,
+    "name": "APPLE",
+    "category": "FRUITS",
+    "price": 57,
+    "image": "passets/fruits/s5.png"
+  },
+  {
+    "id": 6,
+    "name": "WATER MELON",
+    "category": "FRUITS",
+    "price": 26,
+    "image": "passets/fruits/s6.png"
+  },
+  {
+    "id": 7,
+    "name": "MUSK MELON",
+    "category": "FRUITS",
+    "price": 30,
+    "image": "passets/fruits/s7.png"
+  },
+  {
+    "id": 8,
+    "name": "CHERRY",
+    "category": "FRUITS",
+    "price": 300,
+    "image": "passets/fruits/s8.png"
+  },
+  {
+    "id": 9,
+    "name": "PLUM",
+    "category": "FRUITS",
+    "price": 114,
+    "image": "passets/fruits/s9.png"
+  },
+  {
+    "id": 10,
+    "name": "LITCHI",
+    "category": "FRUITS",
+    "price": 100,
+    "image": "passets/fruits/s10.png"
+  },
+  {
+    "id": 11,
+    "name": "PEAR",
+    "category": "FRUITS",
+    "price": 120,
+    "image": "passets/fruits/s11.png"
+  },
+  {
+    "id": 12,
+    "name": "GRAPES",
+    "category": "FRUITS",
+    "price": 368,
+    "image": "passets/fruits/s12.png"
+  },
+  {
+    "id": 13,
+    "name": "PINEAPPLE",
+    "category": "FRUITS",
+    "price": 60,
+    "image": "passets/fruits/s13.png"
+  },
+  {
+    "id": 14,
+    "name": "PAPAYA",
+    "category": "FRUITS",
+    "price": 56,
+    "image": "passets/fruits/s14.png"
+  },
+  {
+    "id": 15,
+    "name": "PEACH",
+    "category": "FRUITS",
+    "price": 150,
+    "image": "passets/fruits/s15.png"
+  },
+  {
+    "id": 16,
+    "name": "SWEET LEMON",
+    "category": "FRUITS",
+    "price": 50,
+    "image": "passets/fruits/s16.png"
+  },
+  {
+    "id": 17,
+    "name": "GOOSE BERRY",
+    "category": "FRUITS",
+    "price": 90,
+    "image": "passets/fruits/s17.png"
+  },
+  {
+    "id": 18,
+    "name": "LEMON",
+    "category": "FRUITS",
+    "price": 50,
+    "image": "passets/fruits/s18.png"
+  },
+  {
+    "id": 19,
+    "name": "GUAVA",
+    "category": "FRUITS",
+    "price": 124,
+    "image": "passets/fruits/s19.png"
+  },
+  {
+    "id": 20,
+    "name": "JAMUN",
+    "category": "FRUITS",
+    "price": 120,
+    "image": "passets/fruits/s20.png"
+  },
+  {
+    "id": 21,
+    "name": "BANANA",
+    "category": "FRUITS",
+    "price": 56,
+    "image": "passets/fruits/s21.png"
+  },
+  {
+    "id": 22,
+    "name": "DATE",
+    "category": "FRUITS",
+    "price": 200,
+    "image": "passets/fruits/s22.png"
+  },
+  {
+    "id": 23,
+    "name": "BLACK BERRY",
+    "category": "FRUITS",
+    "price": 220,
+    "image": "passets/fruits/s23.png"
+  },
+  {
+    "id": 24,
+    "name": "COCONUT",
+    "category": "FRUITS",
+    "price": 42,
+    "image": "passets/fruits/s24.png"
+  },
+  {
+    "id": 25,
+    "name": "STAR FRUIT",
+    "category": "FRUITS",
+    "price": 120,
+    "image": "passets/fruits/s25.png"
+  },
+  {
+    "id": 26,
+    "name": "AVOCADO",
+    "category": "FRUITS",
+    "price": 200,
+    "image": "passets/fruits/s26.png"
+  },
+  {
+    "id": 27,
+    "name": "APRICOT",
+    "category": "FRUITS",
+    "price": 180,
+    "image": "passets/fruits/s27.png"
+  },
+  {
+    "id": 28,
+    "name": "CUSTARD APPLE",
+    "category": "FRUITS",
+    "price": 120,
+    "image": "passets/fruits/s28.png"
+  },
+  {
+    "id": 29,
+    "name": "FIGS",
+    "category": "FRUITS",
+    "price": 160,
+    "image": "passets/fruits/s29.png"
+  },
+  {
+    "id": 30,
+    "name": "INDIAN JUJUBES",
+    "category": "FRUITS",
+    "price": 80,
+    "image": "passets/fruits/s30.png"
+  },
+  {
+    "id": 31,
+    "name": "TAMARIND",
+    "category": "FRUITS",
+    "price": 140,
+    "image": "passets/fruits/s31.png"
+  },
+  {
+    "id": 32,
+    "name": "SAPOTA",
+    "category": "FRUITS",
+    "price": 114,
+    "image": "passets/fruits/s32.png"
+  }
 ]
