@@ -31,7 +31,7 @@ const OurStory = () => {
           {/* Left Side - Image */}
           <div className="md:w-1/2 flex justify-center">
             <img
-              src="/src/assets/pfp.jpg" // replace with your founder image path
+              src="/passests/founder.png" // replace with your founder image path
               alt="Founder"
               className="rounded-lg shadow-lg object-cover w-80 h-96"
             />
